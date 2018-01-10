@@ -24,6 +24,14 @@ $ git clone https://github.com/cupliz/rnw-kit.git
 $ cd rnw-kit
 $ npm install
 ```
+
+##### Web:
+To run on web browser
+```sh
+$ npm run build
+$ npm run web
+```
+
 ##### Android:
 Before starting app in Android, make sure you have virtual device connected
 ```sh
