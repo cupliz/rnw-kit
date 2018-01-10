@@ -8,8 +8,8 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "test": "jest",
-    "web": "react-scripts start",
-    "build": "react-scripts build",
+    "web": "react-app-rewired start",
+    "build": "react-app-rewired build",
     "web-test": "react-scripts test --env=jsdom",
     "web-eject": "react-scripts eject"
   },
