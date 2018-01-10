@@ -1,0 +1,36 @@
+{
+  "name": "rnw",
+  "version": "0.1.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "bundle": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest",
+    "web": "react-scripts start",
+    "build": "react-scripts build",
+    "web-test": "react-scripts test --env=jsdom",
+    "web-eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "native-base": "git+https://github.com/cupliz/NativeBase.git#master",
+    "react": "16.2.0",
+    "react-app-rewired": "*",
+    "react-dom": "16.2.0",
+    "react-native": "0.52.0",
+    "react-native-web": "*",
+    "react-router-dom": "*",
+    "react-router-native": "*"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.17",
+    "babel-jest": "22.0.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.0.5",
+    "react-test-renderer": "16.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
