@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\www\\myton\\rnw-kit\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\www\\myton\\rnw-kit\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\www\\myton\\rnw\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "D:\\www\\myton\\rnw\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
