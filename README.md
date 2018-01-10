@@ -15,7 +15,7 @@ This package depend on open source package:
 
 and optional package:
 * [react-app-rewired] - Override webpack configs without ejecting
-* [reactreact-router] - Declarative routing for React
+* [react-router] - Declarative routing for React
 
 ### Getting Started
 Install:
