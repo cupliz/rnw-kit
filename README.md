@@ -1,4 +1,3 @@
-# RNW-Kit
 <h2 align="center">
   RNW-Kit
 </h2>
