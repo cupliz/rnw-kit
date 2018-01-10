@@ -44,7 +44,11 @@ $ react-native run-android
 ```
 
 ##### IOS:
-type this in your console
+check your available devices by running 
+```sh
+$ xcrun simctl list devices
+```
+then run:
 ```sh
 $ react-native run-ios
 ```
